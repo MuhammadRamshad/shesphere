@@ -1,7 +1,7 @@
 {
-  "name": "shesphere-backend",
+  "name": "shesphere",
   "version": "1.0.0",
-  "description": "Backend server for SheSphere Guardian Guide",
+  "description": "Backend server for SheSphere",
   "main": "dist/server.js",
   "scripts": {
     "start": "node dist/server.js",
